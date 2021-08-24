@@ -1,0 +1,101 @@
+{
+  "driving-distance": [
+  {
+        "rank-this-week": "1",
+        "rank-last-week": "1",
+        "player-name": "Bryson DeChambeau",
+        "rounds": 75,
+        "average": 321.7,
+        "total-distance": 46329,
+        "total-drives": 144
+  },
+  {
+        "rank-this-week": "2",
+        "rank-last-week": "2",
+        "player-name": "Rory McIlroy",
+        "rounds": 69,
+        "average": 318.4,
+        "total-distance": 42032,
+        "total-drives": 132
+  },
+  {
+        "rank-this-week": "3",
+        "rank-last-week": "3",
+        "player-name": "Cameron Champ",
+        "rounds": 75,
+        "average": 316.4,
+        "total-distance": 44935,
+        "total-drives": 142
+  },
+  {
+        "rank-this-week": "4",
+        "rank-last-week": "4",
+        "player-name": "Matthew Wolff",
+        "rounds": 60,
+        "average": 315.9,
+        "total-distance": 34748,
+        "total-drives": 110
+  },
+  {
+        "rank-this-week": "5",
+        "rank-last-week": "T5",
+        "player-name": "Will Gordon",
+        "rounds": 92,
+        "average": 315,
+        "total-distance": 55434,
+        "total-drives": 176
+  }
+],
+  "scoring-average": [
+    {
+        "rank-this-week": "1",
+        "rank-last-week": "1",
+        "player-name": "Jon Rahm",
+        "rounds": 78,
+        "average": 69.335,
+        "total-strokes": 4780,
+        "total-adjustment": 4.106,
+        "total-rounds": 69
+    },
+    {
+        "rank-this-week": "2",
+        "rank-last-week": "2",
+        "player-name": "Louis Oosthuizen",
+        "rounds": 73,
+        "average": 69.528,
+        "total-strokes": 4605,
+        "total-adjustment": -16.161,
+        "total-rounds": 66
+    },
+    {
+        "rank-this-week": "3",
+        "rank-last-week": "3",
+        "player-name": "Dustin Johnson",
+        "rounds": 67,
+        "average": 69.635,
+        "total-strokes": 4471,
+        "total-adjustment": -14.364,
+        "total-rounds": 64
+    },
+    {
+        "rank-this-week": "4",
+        "rank-last-week": "11",
+        "player-name": "Justin Thomas",
+        "rounds": 79,
+        "average": 69.763,
+        "total-strokes": 5298,
+        "total-adjustment": 3.994,
+        "total-rounds": 76
+    },
+    {
+        "rank-this-week": "5",
+        "rank-last-week": "4",
+        "player-name": "Collin Morikawa",
+        "rounds": 75,
+        "average": 69.765,
+        "total-strokes": 4867,
+        "total-adjustment": 16.554,
+        "total-rounds": 70
+    }
+  ]
+}
